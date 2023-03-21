@@ -3,7 +3,7 @@
 
 I am new to the Front-End Development sector with little experience in Cybersecurity in the span of 2 years. I plan to master the front-end of technology to then go full stack! 
 
-<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80" width="200px" height="200px">
+<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80" width="600px" height="300px">
 
 Skills: HTML / CSS / Sitemaps / Wireframes
 
