@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Patience Wright and I am from Florida!
+### Hi there 👋🏿 my name is Patience Wright and I am from Florida!
 #### I am a Front-End Developer in training.
 
 <img src="https://images.unsplash.com/photo-1555952494-efd681c7e3f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="600px" height="300px">
