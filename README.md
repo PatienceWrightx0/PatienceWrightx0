@@ -15,6 +15,3 @@ Skills: HTML / CSS / Sitemaps / Wireframes
 - 🍓 Ask me about My favorite foods 
 - 📫 How to reach me: thepatiencewright@outlook.com 
 - ⚡ Fun fact: I have locs 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/PatienceWrightx0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/patiencewright/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/thepatiencewright//)  
