@@ -5,7 +5,7 @@
 <br>
 <img src="Github-banner.png" width="600px" height="300px">
 
-I am new to the Front-End Development sector with little experience in Cybersecurity in the span of 2 years. I truly enjoy the different challenges and victories that come with technnolody. I plan to master the front-end to then go full stack!
+I am new to the Front-End Development sector with little experience in Cybersecurity in the span of 2 years. I truly enjoy the different challenges and victories that come with front-end. I plan to master the front-end to then go full stack!
 
 <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80" width="600px" height="300px">
 
