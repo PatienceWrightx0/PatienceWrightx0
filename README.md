@@ -1,8 +1,6 @@
 ### Hi there 👋🏿 my name is Patience Wright and I am from Florida!
 #### I am a Front-End Developer in training.
 
-<img src="https://images.unsplash.com/photo-1555952494-efd681c7e3f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="600px" height="300px">
-<br>
 <img src="Beige Classy Personal LinkedIn Banner.png" width="500px" height="200px">
 
 I am new to the Front-End Development sector with little experience in Cybersecurity in the span of 2 years. I truly enjoy the different challenges and victories that come with front-end. I plan to master the front-end to then go full stack!
